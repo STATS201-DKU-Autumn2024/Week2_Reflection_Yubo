@@ -25,7 +25,7 @@ The main code for this analysis is stored in the Jupyter Notebook file **`ECD_An
 
 Below is an example heatmap from the notebook illustrating the correlation matrix of selected ecological and cultural variables.
 
-![Correlation Heatmap](heatmap_example.jpg)
+![Correlation Heatmap](heatmap.jpg)
 
 ## Dataset
 The ECD dataset provides detailed ecological and cultural data on a country level, facilitating exploration of global patterns and trends. It includes information on various ecological variables such as rainfall, temperature, GDP, and life expectancy, alongside cultural variables like individualism and subjective well-being.
